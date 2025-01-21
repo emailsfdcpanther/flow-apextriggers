@@ -3,7 +3,6 @@
     <fullName>Phone__c</fullName>
     <label>Phone</label>
     <required>false</required>
-    <trackHistory>true</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Phone</type>
 </CustomField>
